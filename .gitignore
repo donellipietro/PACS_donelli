@@ -1,0 +1,9 @@
+#file extensions
+*.aux
+*.lof
+*.log
+*.lot
+*.out
+*.pdf
+*.toc
+
